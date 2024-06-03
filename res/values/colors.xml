@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name = "darkGreen">#2C773C</color>  <!-- inactive -->
+    <color name = "Green">#29C24F</color>  <!-- active -->
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="recipe_nav_icon_tint">#A7792B</color>
+    <color name="grocery_nav_icon_tint">#32713F</color>
+    <color name="calendar_nav_icon_tint">#C18DC0</color>
+
+    <color name="lightPink">#FFB6C1</color>
+
+
+</resources>
